@@ -1,0 +1,7 @@
+George Brown College has 3 campuses in Toronto. The current president is Gervan Fearon
+1. Waterfront Campus
+	Location: 51 Dockside Dr, Toronto, Ontario M5A0B6 
+2. Saint James Campus
+	Location: 200 King Street East, Toronto, Ontario M5A3W8
+3. Casa Loma Campus
+	Location: 500 Macpherson Ave, Toronto, Ontario M5R1M3 
