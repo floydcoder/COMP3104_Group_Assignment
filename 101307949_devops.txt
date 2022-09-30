@@ -5,5 +5,5 @@ a cultural philosophy that automate and integrate the process between software d
 and IT teams. It emphasizes team empowerment, cross team collaboration and communication
 and technology automation"
 
-Lifecycle: Plan -> Discover -> Continuous Feedback -> Observe -> Operate -> Deploy -> Test
-Build ... LOOP BACK AGAIN 
+Lifecycle: Plan -> Build -> Continuous Integration and Delivery -> Monitor and Alert
+-> Operate -> Continuous Feedback 
