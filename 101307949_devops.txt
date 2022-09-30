@@ -4,3 +4,6 @@ Definition: According to Atlassian.com, DevOps is "DevOps is a set of practices,
 a cultural philosophy that automate and integrate the process between software development
 and IT teams. It emphasizes team empowerment, cross team collaboration and communication
 and technology automation"
+
+Lifecycle: Plan -> Discover -> Continuous Feedback -> Observe -> Operate -> Deploy -> Test
+Build ... LOOP BACK AGAIN 
