@@ -1,0 +1,16 @@
+SDLC in DevOps
+
+Accordind to Atlassian.com thius are the definition of each step in the DevOps SDLC
+
+Plan:DevOps teams should adopt agile practices to improve speed and quality. 
+ Agile is an iterative approach to project management and software development that helps 
+ teams break work into smaller pieces to deliver incremental value.
+
+Build: Git is a free and open source version control system. It offers excellent support for
+ branching, merging, and rewriting repository history, which has led to many innovative
+ and powerful workflows and tools for the development build process.
+
+Continuous Integration And Delivery: CI/CD allows teams to release quality products 
+ frequently and predictably, from source code repository to production with automated 
+ workflows. Teams can merge code changes frequently, deploy feature flags, and incorporate
+ end-to-end testing.
