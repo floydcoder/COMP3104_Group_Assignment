@@ -1,1 +1,2 @@
 1. Learning DevOps will help to make a more qualified and informed developer in terms of SDLC
+2. DevOps practices help to establish fast paced and high-demanding environments
