@@ -1,1 +1,8 @@
 Teacher's Name: Pritesh Patel
+Recommended Resources: 
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
+
