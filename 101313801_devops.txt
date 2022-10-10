@@ -1,4 +1,5 @@
 Teacher's Name: Pritesh Patel
+
 Recommended Resources: 
 1. https://github.com
 2. https://travis-ci.com
@@ -6,3 +7,7 @@ Recommended Resources:
 4. https://kubernetes.io
 5. https://www.sonarqube.org
 
+How to be successful in this course:
+1. Lab and Lecture attendance
+2. Lecture Quizzes
+3. Lab Exercises
