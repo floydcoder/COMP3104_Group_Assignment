@@ -1,2 +1,3 @@
 1. Learning DevOps will help to make a more qualified and informed developer in terms of SDLC
 2. DevOps practices help to establish fast paced and high-demanding environments
+3. CI/CD implementation that bridges the gap between operation and dev teams by automating the built, deployment and testing of apps
