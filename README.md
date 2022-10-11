@@ -15,9 +15,16 @@ My Details:
 - Student ID: 101313801
 - Student Name: Murat Istek
 
+## Askar's comment about Assignment: Group Information:
+### Easy and useful task. Good for those who have just started learning devops
 
-## Group Information
+My Info:
+Askar Bulabayev, 101322619
+
+
+
 Group No: 25
 Group Members:
 1. Murat Istek - 101313801
 2. Marco Stevanella - 101307949
+3. Askar Bulabayev - 101322619
