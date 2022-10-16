@@ -1,6 +1,0 @@
-1. Shorten Production Cycles: 
-Siloed development and operations teams extend the production cycle 
-unnecessarily. It becomes harder for both teams to collaborate on the 
-processes required to get the software operational. 
-Close collaboration through the elimination of silos speeds 
-up innovation and development.
